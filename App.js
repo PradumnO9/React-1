@@ -1,6 +1,6 @@
 const parent = React.createElement("div", {id: "parent"}, [
     React.createElement("div", {id: "child"}, [
-        React.createElement("h1", {}, "Heading!"),
+        React.createElement("h1", {id: "heading1"}, "Heading!"),
         React.createElement("h2", {}, "Heading2!")
     ])
 ]);
