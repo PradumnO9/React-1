@@ -1,4 +1,9 @@
 # React Basic 
+- Core React
+  React.createElement("tage name", {}, "tag content")
+
+# JSX
+- JSX lets you write HTML like syntex inside a JS file
 
 # Parcel 
 - Dev Build
